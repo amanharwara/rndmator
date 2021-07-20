@@ -1,8 +1,10 @@
 [package]
 name = "rndmator"
+description = "Command-line utility to toss a coin, roll dice and randomly choose from a list."
 version = "0.1.0"
 authors = ["Aman Harwara <amanharwara@protonmail.com>"]
 edition = "2018"
+license = "GPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
