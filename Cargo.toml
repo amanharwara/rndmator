@@ -5,6 +5,11 @@ version = "0.1.0"
 authors = ["Aman Harwara <amanharwara@protonmail.com>"]
 edition = "2018"
 license = "GPL-3.0"
+homepage = "https://github.com/amanharwara/rndmator/"
+repository = "https://github.com/amanharwara/rndmator/"
+readme = "README.md"
+keywords = ["random", "coin", "dice", "list", "rng"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
